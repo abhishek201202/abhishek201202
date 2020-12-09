@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'am Abhishek Soni 👋
+
+<h3 align="center">A passionate Competitive Programmer</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science NSIT'22</h3>
+
 
 <!--
 **abhishek201202/abhishek201202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
