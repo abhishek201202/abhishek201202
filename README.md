@@ -2,8 +2,8 @@
 
 <h3 align="center">A very passionate Competitive Programmer</h3>
 <h3 align="center">Bachelor of Engineering, Computer Science NSIT'22</h3>
+<h4 align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek201202&label=Views&color=blue&style=plastic" alt="abhishek201202" /> </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek201202&label=Views&color=blue&style=plastic" alt="abhishek201202" /> </p>
 - 🌱 I’m currently learning ...**Web Development**
 - 💬 Ask me about ...**Competitive Programming**
 - 📫 How to reach me **<a href="mailto:abhishekk201202@gmail.com">abhishekk201202@gmail.com</a>**
