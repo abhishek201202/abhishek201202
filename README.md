@@ -1,5 +1,4 @@
-### Hi, I'am Abhishek Soni 👋
-
+<h1 align="center">Hi, I'am Abhishek Soni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate Competitive Programmer</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science NSIT'22</h3>
 
