@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'am Abhishek Soni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-<p align="center">
-<a href=https://www.codechef.com/users/abhishek201202 target="blank"><img align="center" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codechef.com%2FBTCD2013%2Fproblems%2FSCNDWAR&psig=AOvVaw0Jymbx-JYBkS8qZuBbAP5V&ust=1607572192270000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLi-9J3_v-0CFQAAAAAdAAAAABAI alt="abhishek201202" height="20" width="20" /></a>
-<!-- <a href=https://dev.to/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="rahuldkjain" height="20" width="20" /></a>
-<a href=https://twitter.com/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rahuldkjain" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a> -->
-</p>
+<a href="https://www.linkedin.com/in/abhishek-soni-bb33a9185/">
+  <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw21h9sEunilRq09kiWIwt_Z&ust=1607572930724000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODvuoCCwO0CFQAAAAAdAAAAABAD" />
+</a>
 
 
 
