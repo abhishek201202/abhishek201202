@@ -8,6 +8,10 @@
 - 💬 Ask me about ...**Any thing Related to Competitive Programming**
 - 📫 How to reach me **<a href="mailto:abhishekk201202@gmail.com">abhishekk201202@gmail.com</a>**
 
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=abhishek201202&show_icons=true alt=abhishek201202 /> </p>
+
+
+
 
 <!--
 **abhishek201202/abhishek201202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
