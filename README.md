@@ -5,7 +5,7 @@
 <h4 align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek201202&label=Views&color=blue&style=plastic" alt="abhishek201202" /> </h4>
 
 - 🌱 I’m currently learning ...**Web Development**
-- 💬 Ask me about ...**Competitive Programming**
+- 💬 Ask me about ...**Competitive Programming, Machine Learning**
 - 📫 How to reach me **<a href="mailto:abhishekk201202@gmail.com">abhishekk201202@gmail.com</a>**
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=abhishek201202&show_icons=true alt=abhishek201202 /> </p>
