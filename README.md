@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'am Abhishek Soni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-<a href="https://www.linkedin.com/in/abhishek-soni-bb33a9185/">
-  <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw21h9sEunilRq09kiWIwt_Z&ust=1607572930724000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODvuoCCwO0CFQAAAAAdAAAAABAD" />
-</a>
-
-
-
 <h3 align="center">A very passionate Competitive Programmer</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science NSIT'22</h3>
+
+
+- 🌱 I’m currently learning ...**Web Development**
+- 💬 Ask me about ...**Any thing Related to Competitive Programming**
+- 📫 How to reach me **<a href="mailto:abhishekk201202@gmail.com">abhishekk201202@gmail.com</a>**
 
 
 <!--
@@ -16,11 +15,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
