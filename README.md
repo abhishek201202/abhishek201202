@@ -5,12 +5,16 @@
 <h4 align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek201202&label=Views&color=blue&style=plastic" alt="abhishek201202" /> </h4>
 
 - 🌱 I’m currently learning ...**Web Development**
-- 💬 Ask me about ...**Competitive Programming, Machine Learning**
+- 💬 Ask me about ...**Competitive Programming**
 - 📫 How to reach me **<a href="mailto:abhishekk201202@gmail.com">abhishekk201202@gmail.com</a>**
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=abhishek201202&show_icons=true alt=abhishek201202 /> </p>
 
-
+<a href="https://github.com/abhishek201202">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek201202&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/abhishek201202">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek201202&show_icons=true&theme=light&line_height=27" alt="Abhishek's github stats"/>
+</a>
 
 
 <!--
